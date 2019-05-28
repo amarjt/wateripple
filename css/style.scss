@@ -4,5 +4,18 @@ body{
         height: 100vh;
         background: url(/images/david-marcu-45275-unsplash.jpg) no-repeat center;
         background-size: cover;
+        justify-content: center;
+        align-items: center;
+        display: flex;
+        color: #fff;
+
+        .c-pointer{
+            cursor: default;
+            
+
+            &::selection{
+                background: transparent;
+            }
+        }
     }
 }
