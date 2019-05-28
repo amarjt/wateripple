@@ -1,0 +1,7 @@
+body .background {
+  width: 100%;
+  height: 100vh;
+  background: url(/images/david-marcu-45275-unsplash.jpg) no-repeat center;
+  background-size: cover;
+}
+/*# sourceMappingURL=style.css.map */
